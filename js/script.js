@@ -14,6 +14,7 @@ function naming() {
 
     if (CC.value == "" || YY.value == "" || MM.value == "" || DD.value == "") {
         alert("No blank values allowed");
+        
     }
 
     var gender = document.querySelector('input[name="gender"]:checked').value;
@@ -42,6 +43,7 @@ function naming() {
             alert("You were born on: " + day[6]);
             alert("Your Akan name is: " + maleNames[6]);
         }
+
     } else {
         if (dayOfTheWeek === 0) {
             alert("You were born on: " + day[0]);
