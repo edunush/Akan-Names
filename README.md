@@ -18,5 +18,5 @@ By Edu Nush
 I would like to give credit to my Technical mentor for the guidance she gave me towards the development of this web
 ### License
 * Licensed under the MIT license
-Copyright (c) [2020] (Emmanuel cheruyot)
+Copyright (c) [2020] (Edunush)
 (319 kB)
